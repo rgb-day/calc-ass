@@ -91,7 +91,7 @@ calculator-sen/
 - **Course**: SEN 104 & 214
 - **Assignment**: Scientific Calculator Mobile App
 - **Deadline**: June 30, 2026
-- **GitHub**: https://github.com/DiverseXL/sci-calculator-sen
+
 
 ---
 
